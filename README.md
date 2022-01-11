@@ -30,7 +30,7 @@ GIF created with [GifCap](https://blog.bahraniapps.com/gifcam/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had some issues connecting the app to its backend. However I found the issue was because the app element names did not corrobotate with the column names specified on the Parse backend.
 
 ## Open-source libraries used
 
