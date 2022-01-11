@@ -34,4 +34,12 @@
         android:layout_weight="1"
         android:text="Log In"
         app:iconTint="#00BCD4" />
+    <Button
+        android:id="@+id/btnSignUp"
+        android:backgroundTint="#00FF00"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Sign Up"
+        app:iconTint="#00BCD4" />
 </LinearLayout>
