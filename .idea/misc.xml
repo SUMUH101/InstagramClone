@@ -7,7 +7,13 @@
         <entry key="..\:/Users/summe/AndroidStudioProjects/InstagramClone/app/src/main/res/drawable/instagram_logo_background.xml" value="0.14635416666666667" />
         <entry key="..\:/Users/summe/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/activity_login.xml" value="0.22813688212927757" />
         <entry key="..\:/Users/summe/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/summe/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/fragment_compose.xml" value="0.13125" />
+        <entry key="..\:/Users/summe/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/fragment_posts.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/summe/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/fragment_profile.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/summe/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/homelogo.xml" value="0.20697463768115942" />
+        <entry key="..\:/Users/summe/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/item_post.xml" value="0.264" />
         <entry key="..\:/Users/summe/AndroidStudioProjects/InstagramClone/app/src/main/res/layout/logo.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/summe/AndroidStudioProjects/InstagramClone/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.4" />
         <entry key="..\:/Users/summe/AndroidStudioProjects/InstagramClone/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14635416666666667" />
         <entry key="..\:/Users/summe/AndroidStudioProjects/InstagramClone/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14635416666666667" />
         <entry key="..\:/Users/summe/AndroidStudioProjects/InstagramClone/app/src/main/res/xml/fileprovider.xml" value="0.1375" />
