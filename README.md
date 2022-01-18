@@ -34,7 +34,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/Kxti33J.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/kZP6w8W.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [GifCam](https://blog.bahraniapps.com/gifcam/).
 
